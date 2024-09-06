@@ -1,1 +1,12 @@
 # tools-for-ds
+![1-notebook](https://github.com/user-attachments/assets/bfaef61b-af3e-4d92-b1c2-03e16c9e0c36)
+![9-hourstominutes](https://github.com/user-attachments/assets/a7260f3c-dc82-43a3-adfa-73ddd0dd12f4)
+![8-multiplylandaddintegers](https://github.com/user-attachments/assets/b3b52c81-e688-4750-8dc6-e1caa5adef75)
+![7-introarithmetic](https://github.com/user-attachments/assets/a6b65a1a-6eee-4fb3-af01-134cca5a2c8e)
+![6-ds tools](https://github.com/user-attachments/assets/5a2dc3f4-e5a2-430b-8464-3a03ebe561d9)
+![5-dslibraries](https://github.com/user-attachments/assets/1943d50c-6235-45ad-b17b-14698aa86ee2)
+![4-dslanguages](https://github.com/user-attachments/assets/88124d9b-978c-4d6e-be58-79017a42cd93)
+![3-intro](https://github.com/user-attachments/assets/fe807727-d106-45af-a4e4-c39d149045fb)
+![2-tilte](https://github.com/user-attachments/assets/3590fc42-7f57-4f18-a1e1-42ff8cf65e38)
+![11-authordetails](https://github.com/user-attachments/assets/e6b9e751-4c77-4d17-8244-45fb9777b083)
+![10-objectives](https://github.com/user-attachments/assets/7ae5a07a-4b4e-435c-b04a-2bec0dd237af)
